@@ -34,11 +34,7 @@ git clone https://github.com/ISHANT57/React-Projects.git
 cd React-Projects/your-project-folder
 
 
-
-
-
-
-
+---
 
 🙏 Special Thanks
 A huge thanks to Hitesh Choudhary and the Chai aur Code community for their incredible content, mentorship, and dedication to teaching modern web development.
@@ -70,5 +66,11 @@ Improve UI/UX with animations
 Use Redux Toolkit for global state (in bigger apps)
 
 Add unit tests using React Testing Library / Jest
+
+
+
+
+
+
 
 
