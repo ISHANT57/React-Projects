@@ -22,20 +22,6 @@ Each folder inside the repository is a separate React project. Common features i
 - Clean UI with responsive design
 - Project-specific functionality (To-do app, weather app, recipe app, etc.)
 
----
-
-## 📦 How to Run
-
-> Make sure you have Node.js and npm installed
-
-### Clone the Repository
-```bash
-git clone https://github.com/ISHANT57/React-Projects.git
-cd React-Projects/your-project-folder
-
-
----
-
 🙏 Special Thanks
 A huge thanks to Hitesh Choudhary and the Chai aur Code community for their incredible content, mentorship, and dedication to teaching modern web development.
 This journey wouldn’t have been possible without your clear explanations and practical approach.
@@ -66,6 +52,22 @@ Improve UI/UX with animations
 Use Redux Toolkit for global state (in bigger apps)
 
 Add unit tests using React Testing Library / Jest
+
+---
+
+## 📦 How to Run
+
+> Make sure you have Node.js and npm installed
+
+### Clone the Repository
+```bash
+git clone https://github.com/ISHANT57/React-Projects.git
+cd React-Projects/your-project-folder
+
+
+---
+
+
 
 
 
